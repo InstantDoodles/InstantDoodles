@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, my name is Edie Grove, AKA Instant or InstantDoodles
+### Pronouns: She/her or They/them, no preference
+### (Not really sure how this works to be honest)
+### Much better at the artistic aspects of game design than the technical (ie., coding)
+### I'm currently interested in the games Slay The Princess and Inscryption, and the music artist Chonny Jash.
+### Hope you have a good day :)
 
 <!--
 **InstantDoodles/InstantDoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
